@@ -1,6 +1,4 @@
-이 프로그램은 cursor.ai를 이용해서 리눅스에서 보안 문제가 있을 경우에 재시작이 아닌 간단히 리눅스 os 및 컴퓨터를 종료하도록 짜여진 프로그램입니다. 
-비 개발자라 코드 이슈나 수정 사항이 발생할 수 있고, 혹은 컴퓨터에 문제가 생길 수 있습니다. 바이브 코딩의 위험성은 잘 알려져 있습니다. 
-저는 이 문제를 책임질 수 없으며, 이 레포지토리는 사이버대학 학부생 수준에서 간단하게 AI를 사용하여 작성되었습니다.
+이 프로그램은 cursor.ai를 이용해서 작성되었습니다. 비 개발자라 코드 이슈나 수정 사항이 발생할 수 있고, 혹은 컴퓨터에 문제가 생길 수 있습니다. 바이브 코딩의 위험성은 잘 알려져 있습니다. 저는 이 문제를 책임질 수 없으며, 이 레포지토리는 사이버대학 학부생 수준에서 간단하게 AI를 사용하여 작성되었습니다.
 
 This program uses cursor.ai to simply shut down the Linux OS and computer instead of restarting it in the event of a security issue on Linux.
 As a non-developer, you may encounter code issues or modifications, or your computer may malfunction. The risks of Vibe coding are well known.
