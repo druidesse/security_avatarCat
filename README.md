@@ -7,6 +7,7 @@ As a non-developer, you may encounter code issues or modifications, or your comp
 I cannot be held responsible for this issue, and this repository was created using simple AI at the undergraduate level of a cyber university.
 
 참고로 약간의 위트를 위해 중요한 알림이 뜨는 부분에서는 프로그램이 냥체를 쓰고 있습니다.
+
 For your information, the program uses cat's words in the parts where important notifications appear, just for a bit of wit.
 
 # 보안 모니터링 프로그램
