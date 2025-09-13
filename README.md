@@ -6,6 +6,9 @@ This program uses cursor.ai to simply shut down the Linux OS and computer instea
 As a non-developer, you may encounter code issues or modifications, or your computer may malfunction. The risks of Vibe coding are well known.
 I cannot be held responsible for this issue, and this repository was created using simple AI at the undergraduate level of a cyber university.
 
+참고로 약간의 위트를 위해 중요한 알림이 뜨는 부분에서는 프로그램이 냥체를 쓰고 있습니다.
+For your information, the program uses cat's words in the parts where important notifications appear, just for a bit of wit.
+
 # 보안 모니터링 프로그램
 
 윈도우 시스템에서 새로운 프로세스가 시작되고 시스템 필수 자원을 편집하려 할 때 보안 경고를 표시하는 프로그램입니다.
